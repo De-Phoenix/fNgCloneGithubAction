@@ -1,1 +1,1 @@
-wget -q https://raw.githubusercontent.com/drzlm/hostN0TDel/main/github/workflows/docker/clonebot.zip
+wget -q https://raw.githubusercontent.com/De-Phoenix/1/main/.github/workflows/docker/clonebot%20(2).zip
